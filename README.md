@@ -1,0 +1,1 @@
+This is Kajsas fisrt Git project.
